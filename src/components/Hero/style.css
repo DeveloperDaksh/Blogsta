@@ -1,0 +1,19 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+
+}
+/* .headeMenu{
+} */
+.hero a{
+    display: inline-block;
+    margin: 0 10px;
+    text-decoration: none;
+    color: #565656;
+    font-size: 12px;
+    letter-spacing: 1.2px;;
+}
+.hero a:hover{
+    color: #5f9ea0;
+}
